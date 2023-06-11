@@ -9,7 +9,7 @@ const navigation = [
   { name: 'Log in', href: '#', current: false },
   { name: 'Get Started', href: '#', current: false },
 ]
-
+// hi
 function classNames(...classes) {
   return classes.filter(Boolean).join(' ')
 }
